@@ -113,7 +113,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .envrc
 .venv*
 venv*
@@ -185,4 +184,4 @@ prof
 virtualenv/
 
 # Ignore environment variables
-.env.local
+.env
