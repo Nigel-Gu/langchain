@@ -183,3 +183,6 @@ docs/docs/templates
 
 prof
 virtualenv/
+
+# Ignore environment variables
+.env.local
